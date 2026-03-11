@@ -1,0 +1,86 @@
+[
+  {
+    "id": "microscope-avance",
+    "name": "Microscope de Recherche Avancé",
+    "category": "Optique",
+    "image": "img/product/p1.jpg",
+    "price": "Sur devis",
+    "description": "Microscope binoculaire de haute précision conçu pour les laboratoires de recherche et de diagnostic clinique. Offre une clarté optique exceptionnelle et une ergonomie avancée.",
+    "specs": {
+      "Grossissement": "40x - 1000x",
+      "Éclairage": "LED réglable",
+      "Certification": "CE, ISO 13485",
+      "Garantie": "2 ans"
+    }
+  },
+  {
+    "id": "analyseur-biochimie",
+    "name": "Analyseur de Biochimie Automatique",
+    "category": "Diagnostic",
+    "image": "img/product/p2.jpg",
+    "price": "Sur devis",
+    "description": "Système d'analyse biochimique entièrement automatisé pour une efficacité maximale dans les laboratoires à haut débit. Précision et répétabilité garanties.",
+    "specs": {
+      "Débit": "200 tests/heure",
+      "Méthode": "Photométrie, Turbidimétrie",
+      "Origine": "Union Européenne",
+      "Support": "Inclus"
+    }
+  },
+  {
+    "id": "centrifugeuse-labo",
+    "name": "Centrifugeuse de Laboratoire",
+    "category": "Équipement Général",
+    "image": "img/product/p3.jpg",
+    "price": "Sur devis",
+    "description": "Centrifugeuse polyvalente avec rotor interchangeable, idéale pour la séparation des composants sanguins et les applications de recherche générale.",
+    "specs": {
+      "Vitesse Max": "15,000 RPM",
+      "Capacité": "24 x 2ml / 4 x 100ml",
+      "Bruit": "< 55 dB",
+      "Sécurité": "Verrouillage automatique du couvercle"
+    }
+  },
+  {
+    "id": "spectrophotometre-uv",
+    "name": "Spectrophotomètre UV-Visible",
+    "category": "Analyse",
+    "image": "img/product/p4.jpg",
+    "price": "Sur devis",
+    "description": "Analyse spectrophotométrique précise sur toute la gamme UV et visible. Logiciel intuitif pour le traitement des données et la conformité aux normes.",
+    "specs": {
+      "Gamme": "190 - 1100 nm",
+      "Précision": "+/- 0.1 nm",
+      "Écran": "Tactile couleur",
+      "Connectivité": "USB, Ethernet"
+    }
+  },
+  {
+    "id": "incubateur-co2",
+    "name": "Incubateur à CO2",
+    "category": "Culture Cellulaire",
+    "image": "img/product/p5.jpg",
+    "price": "Sur devis",
+    "description": "Contrôle précis de la température et du CO2 pour la culture de cellules sensibles. Intérieur en acier inoxydable avec coins arrondis pour un nettoyage facile.",
+    "specs": {
+      "Volume": "150 Litres",
+      "Contrôle CO2": "0 - 20%",
+      "Stérilisation": "Cycle 180°C",
+      "Alarme": "Température et gaz"
+    }
+  },
+  {
+    "id": "systeme-electrophorese",
+    "name": "Système d'Électrophorèse",
+    "category": "Biologie Moléculaire",
+    "image": "img/product/p6.jpg",
+    "price": "Sur devis",
+    "description": "Système complet pour l'électrophorèse des protéines et des acides nucléiques. Inclut cuve, générateur de courant et accessoires de coulage.",
+    "specs": {
+      "Tension": "0 - 300V",
+      "Courant": "0 - 400mA",
+      "Application": "DNA, RNA, Protéines",
+      "Sécurité": "Coupure automatique"
+    }
+  }
+]
