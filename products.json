@@ -56,8 +56,8 @@
     }
   },
   {
-    "id": "Sifi incubateur-co2",
-    "name": "Incubateur à CO2",
+    "id": "incubateur-co2",
+    "name": "SIFI Incubateur à CO2",
     "category": "Culture Cellulaire",
     "image": "img/product/p5.jpg",
     "price": "Sur devis",
