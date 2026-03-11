@@ -82,5 +82,19 @@
       "Application": "DNA, RNA, Protéines",
       "Sécurité": "Coupure automatique"
     }
-  }
+  },
+  {
+    "id": "microscope-avance",
+    "name": "TEST TESTMicroscope de Recherche Avancé",
+    "category": "Pipette",
+    "image": "img/product/p1.jpg",
+    "price": "Sur devis",
+    "description": "Microscope binoculaire de haute précision conçu pour les laboratoires de recherche et de diagnostic clinique. Offre une clarté optique exceptionnelle et une ergonomie avancée.",
+    "specs": {
+      "Sifi": "40x - 1000x",
+      "M5": "LED réglable",
+      "Certification": "CE, ISO 13485",
+      "Garantie": "2 ans"
+    }
+  },
 ]
